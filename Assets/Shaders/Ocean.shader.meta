@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b7a71f11b33e9ac4eaa77146796fc8d1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalMap: {fileID: 2800000, guid: d1435c5859ab50b4b9db9779e0888ed1, type: 3}
+  - _NoiseMap: {fileID: 2800000, guid: a76128c3df65d144d804d45479e58300, type: 3}
+  - _Voronoi: {fileID: 2800000, guid: 44fb968f433c16340a1519106d6e1da9, type: 3}
+  - _SeaDistortion: {fileID: 2800000, guid: b389e53fc3deab248b8b3159950edd4d, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
